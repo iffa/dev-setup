@@ -1,0 +1,62 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "editor.suggestSelection": "first",
+  "editor.quickSuggestionsDelay": 0,
+  "editor.quickSuggestions": {
+    "strings": true,
+    "comments": true,
+    "other": true
+  },
+  "editor.minimap.enabled": false,
+  "editor.rulers": [80],
+  "editor.wordWrap": "on",
+  "editor.fontSize": 14,
+  "editor.linkedEditing": true,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "terminal.integrated.shell.linux": "/bin/zsh",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "terminal.integrated.scrollback": 10000,
+  "files.exclude": {
+    "**/.idea": true,
+    "**/.next": true,
+    "**/node_modules": true,
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/.eslintcache": true
+  },
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Pitch Black",
+  "workbench.sideBar.location": "left",
+  "workbench.panel.defaultLocation": "right",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.autoReveal": false,
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "debug.console.fontSize": 14,
+  "gitlens.codeLens.enabled": false,
+  "svg.preview.mode": "svg",
+  "html.autoClosingTags": true,
+  "javascript.autoClosingTags": true,
+  "typescript.autoClosingTags": true,
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.suggest.paths": false,
+  "tabnine.experimentalAutoImports": true
+}

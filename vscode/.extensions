@@ -1,0 +1,17 @@
+code --install-extension aaron-bond.better-comments
+code --install-extension Angular.ng-template
+code --install-extension christian-kohler.npm-intellisense
+code --install-extension christian-kohler.path-intellisense
+code --install-extension CoenraadS.bracket-pair-colorizer-2
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+code --install-extension eg2.vscode-npm-script
+code --install-extension esbenp.prettier-vscode
+code --install-extension firefox-devtools.vscode-firefox-debug
+code --install-extension jock.svg
+code --install-extension k--kato.intellij-idea-keybindings
+code --install-extension ms-vscode-remote.remote-wsl
+code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension PKief.material-icon-theme
+code --install-extension TabNine.tabnine-vscode
+code --install-extension viktorqvarfordt.vscode-pitch-black-theme
