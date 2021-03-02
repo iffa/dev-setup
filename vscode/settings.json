@@ -41,7 +41,7 @@
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Pitch Black",
   "workbench.sideBar.location": "left",
-  "workbench.panel.defaultLocation": "right",
+  "workbench.panel.defaultLocation": "bottom",
   "explorer.confirmDragAndDrop": false,
   "explorer.autoReveal": false,
   "telemetry.enableCrashReporter": false,
@@ -58,5 +58,8 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "typescript.suggest.paths": false,
-  "tabnine.experimentalAutoImports": true
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "window.zoomLevel": 1
 }
